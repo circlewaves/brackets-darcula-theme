@@ -1,0 +1,17 @@
+{
+    "name": "circlewaves.darcula-theme",
+    "title": "Darcula",
+    "description": "Classic Darcula theme",
+    "homepage": "https://github.com/circlewaves/brackets-darcula-theme",
+    "version": "1.0.0",
+    "author": "Max Kostinevich <info@circlewaves.com> (http://circlewaves.com)",
+    "license": "MIT",
+    "theme": {
+        "file": "darcula.css",
+        "dark": true
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "keywords": ["dark"]
+}
