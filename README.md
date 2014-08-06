@@ -1,4 +1,4 @@
-Darcula theme for Bracktes
+Darcula theme for Brackets
 ======================
 
-Classic Darcula theme for Bracktes
+Classic Darcula theme for Brackets
