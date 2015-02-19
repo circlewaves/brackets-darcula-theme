@@ -13,6 +13,10 @@
   color: #2b91af;
   border-right: 0;
 }
+.CodeMirror-focused .CodeMirror-activeline-background, 
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
+    background-color: #333;
+}
 .cm-keyword {
   color: #cc7833;
 }
